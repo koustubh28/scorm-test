@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://quizzes/160EF05E-3887-4EB0-B392-C7AF9D2D38C3" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">IInd b group ques</name>
+			<description lang="und"></description>
+			<launch>res/index.html</launch>
+		</activity>
+	</activities>
+</tincan>
